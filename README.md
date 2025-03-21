@@ -7,6 +7,9 @@
 
 <div>
     <h4>Languages and tools</h4>
-    
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" alt="C++" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" 
+title="cpp" width="40" height="40"/>&nbsp;
+
 </div>
+
+
