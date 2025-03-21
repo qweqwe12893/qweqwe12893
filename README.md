@@ -1,15 +1,15 @@
-## Hi there 👋
-<div>
-    <h1>Hi there, I'm Eva</h1> 
-    <h4>Bachelor of Software Engineering</h4>
+<div align="center">
+    <h1>Hi there, I'm Eva 👋</h1> 
+    <h4>
+        Bachelor of Software Engineering from <a href="https://eng.miet.ru">National Research University of Electronic Technology</a> 
+    </h4>
 </div>
-<!--
-**qweqwe12893/qweqwe12893** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
+- 🔭 I am currently studying at the National Research University of Electronic Technology (MIET)
+- 🌏 I speak English and Russian
+- 🌱 I’m currently learning Object Oriented Programming in C++
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
