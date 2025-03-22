@@ -5,12 +5,14 @@
     </h4>
 </div>
 
-<div>
-    <h4>Languages and tools</h4>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" 
-title="cpp" width="40" height="40"/>&nbsp;
+<div align="center" id="tools">
+    <h6>I'm a freshman who knows the basics of</h6>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
 title="python" width="40" height="40"/>&nbsp;
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" 
+title="cpp" width="40" height="40"/>&nbsp;
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" title="C" width="40" height="40"/>&nbsp;
+          
 
 </div>
 
